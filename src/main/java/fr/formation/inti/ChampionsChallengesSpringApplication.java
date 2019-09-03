@@ -9,8 +9,8 @@ public class ChampionsChallengesSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ChampionsChallengesSpringApplication.class, args);
 	}
-	
 	public static void afficher() {
-		System.out.println("GitHub Test");
+		System.out.println("Test");
 	}
+	
 }
