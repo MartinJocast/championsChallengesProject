@@ -1,4 +1,4 @@
-
+ 
 INSERT INTO ChampionsChallengeProject.clubs (`name`, club_code, country_code, `group`, rate)
 values ('Paris Saint Germain', 'psg', 'FRA', 'A', '9'),
  ('Real Madrid', 'rea', 'ESP', 'A', '8'), 

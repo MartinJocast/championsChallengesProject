@@ -1,4 +1,4 @@
-
+ 
 INSERT INTO ChampionsChallengeProject.players (`last_name`, `first_name`, `position`, `position_code`, `country_code`, club, `id_club`, `value`)
 values ('Navas', 'Keylor', 'gardien', 'gar', 'COS', 'PSG', '1','30'),('Rico', 'Sergio', 'gardien', 'gar', 'ESP', 'PSG', '1','10'),
 ('Bulka', 'Marcin', 'gardien', 'gar', 'POL', 'PSG', '1','5'), ('Dagba', 'Colin', 'defenseur', 'def', 'FRA', 'PSG', '1','15'),

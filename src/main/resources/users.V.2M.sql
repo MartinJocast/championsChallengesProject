@@ -1,1 +1,1 @@
-SELECT * FROM championschallengeproject.users;
+ SELECT * FROM championschallengeproject.users;

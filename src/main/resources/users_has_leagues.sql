@@ -1,1 +1,1 @@
-SELECT * FROM championschallengeproject.users_has_ligues;
+ SELECT * FROM championschallengeproject.users_has_ligues;
